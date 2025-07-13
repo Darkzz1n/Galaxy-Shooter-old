@@ -168,7 +168,6 @@ public class Player : MonoBehaviour
         if (other.tag == "Enemy_Laser")
         {
             Damage();
-            
         }
     }
     public void TripleShotActive()
